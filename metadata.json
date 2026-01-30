@@ -1,0 +1,8 @@
+{
+  "name": "NeonCRM - Gamified Sales Dashboard",
+  "description": "A high-performance, neon-themed CRM with gamification elements like XP, level-ups, and achievements, featuring AI-powered insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
